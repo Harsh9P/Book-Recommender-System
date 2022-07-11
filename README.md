@@ -1,6 +1,6 @@
 # Book Recommender System
 
-Project Demo Link: https://harsh-book-recommender-system.herokuapp.com
+**Project Demo Link:** https://harsh-book-recommender-system.herokuapp.com
 
 ### Plese Open this Project into the Internet Explorer for better Results
 
